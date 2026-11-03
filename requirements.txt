@@ -1,0 +1,11 @@
+# Core Web Framework
+Flask>=3.0.0
+
+# Machine Learning & Data Processing
+scikit-learn>=1.4.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image Preprocessing & Plotting
+pillow>=10.0.0
+matplotlib>=3.8.0
